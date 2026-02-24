@@ -2,6 +2,33 @@
   "version": "pack-001",
   "updatedAt": "2026-02-24",
   "categories": {
-    "Yemek": ["İskender kebap", "Tavuk şiş", "Mercimek çorbası"]
+    "Yemek": [
+      "İskender kebap",
+      "Tavuk şiş",
+      "Mercimek çorbası",
+      "Ezogelin çorbası",
+      "Kuru fasulye",
+      "Pilav üstü kuru",
+      "Etli nohut",
+      "İmam bayıldı",
+      "Zeytinyağlı yaprak sarma",
+      "Fırında tavuk",
+      "Kaşarlı pide",
+      "Kıymalı pide",
+      "Lahmacun",
+      "Adana kebap",
+      "Urfa kebap",
+      "Ali nazik",
+      "Hünkar beğendi",
+      "Mantı",
+      "Çiğ köfte",
+      "Simit",
+      "Künefe",
+      "Sütlaç",
+      "Kazandibi",
+      "Baklava",
+      "Peynirli börek",
+      "Su böreği"
+    ]
   }
 }
