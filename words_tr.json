@@ -1,0 +1,36 @@
+{
+  "version": "tr-pack-v1",
+  "updatedAt": "2026-02-24",
+  "categories": {
+    "Şehir": [
+      "Adana","Adıyaman","Afyonkarahisar","Amasya","Ankara","Antalya","Aydın","Balıkesir","Bilecik","Bingöl",
+      "Bitlis","Bolu","Burdur","Bursa","Çanakkale","Çankırı","Çorum","Denizli","Diyarbakır","Edirne",
+      "Elazığ","Erzincan","Erzurum","Eskişehir","Gaziantep","Giresun","Gümüşhane","Hakkâri","Hatay","Isparta",
+      "Mersin","İstanbul","İzmir","Kars","Kastamonu","Kayseri","Kırklareli","Kırşehir","Kocaeli","Konya",
+      "Kütahya","Malatya","Manisa","Kahramanmaraş","Mardin","Muğla","Muş","Nevşehir","Niğde","Ordu",
+      "Rize","Sakarya","Samsun","Siirt","Sinop","Sivas","Tekirdağ","Tokat","Trabzon","Tunceli","Şanlıurfa",
+      "Uşak","Van","Yozgat","Zonguldak","Aksaray","Bayburt","Karaman","Kırıkkale","Batman","Şırnak",
+      "Bartın","Ardahan","Iğdır","Yalova","Karabük","Kilis","Osmaniye","Düzce"
+    ],
+    "Ülke": [
+      "Türkiye","Almanya","Fransa","İtalya","İspanya","Portekiz","Yunanistan","Bulgaristan","Romanya","Polonya",
+      "Ukrayna","Rusya","Gürcistan","Ermenistan","Azerbaycan","İran","Irak","Suriye","İsrail","Mısır",
+      "Libya","Tunus","Fas","Cezayir","Sudan","Kenya","Etiyopya","Nijerya","Gana","Güney Afrika",
+      "Amerika","Kanada","Meksika","Brezilya","Arjantin","Şili","Kolombiya","Peru",
+      "Çin","Japonya","Güney Kore","Hindistan","Pakistan","Endonezya","Tayland","Vietnam","Malezya",
+      "Avustralya","Yeni Zelanda"
+    ],
+    "Hayvan": [
+      "Kedi","Köpek","Kuş","Balık","At","İnek","Koyun","Keçi","Tavşan","Tilki","Kurt","Ayı","Aslan","Kaplan",
+      "Zebra","Zürafa","Fil","Timsah","Yılan","Kartal","Baykuş","Penguen","Yunus","Balina","Arı","Karınca"
+    ],
+    "Meslek": [
+      "Doktor","Hemşire","Öğretmen","Mühendis","Avukat","Mimar","Pilot","Şoför","Aşçı","Marangoz","Elektrikçi",
+      "Berber","Eczacı","Polis","İtfaiyeci","Muhasebeci","Gazeteci","Tasarımcı","Programcı","Çiftçi"
+    ],
+    "Yemek": [
+      "Kebap","Pilav","Börek","Mantı","Köfte","Lahmacun","Pide","Çorba","Makarna","Salata","Dolma","Sarma",
+      "Baklava","Künefe","Helva","Peynir","Zeytin","Ekmek","Yoğurt","Çikolata"
+    ]
+  }
+}
