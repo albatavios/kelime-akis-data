@@ -1,19 +1,13 @@
 {
-  "version": 1,
-  "minAppVersion": 1,
-  "bannedUrl": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/filters/banned_tr.json",
+  "version": 2,
+  "core": {
+    "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/words_tr.json"
+  },
   "packs": [
     {
-      "id": "pack_0001",
-      "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_0001.json",
-      "adds": 2000,
-      "sha256": ""
-    },
-    {
-      "id": "pack_0002",
-      "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_0002.json",
-      "adds": 2000,
-      "sha256": ""
+      "id": "pack_001",
+      "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_001.json",
+      "adds": 5
     }
   ]
 }
