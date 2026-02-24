@@ -1,13 +1,31 @@
 {
-  "version": 2,
-  "core": {
-    "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/words_tr.json"
-  },
+  "schema": 1,
+  "updatedAt": "2026-02-24",
   "packs": [
-    {
-      "id": "pack_001",
-      "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_001.json",
-      "adds": 5
-    }
+    { "id": "pack_001", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_001.json", "hash": "" },
+    { "id": "pack_002", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_002.json", "hash": "" },
+    { "id": "pack_003", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_002.json", "hash": "" },
+    { "id": "pack_004", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_002.json", "hash": "" },
+    { "id": "pack_005", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_002.json", "hash": "" },
+    { "id": "pack_006", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_002.json", "hash": "" },
+    { "id": "pack_007", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_002.json", "hash": "" },
+    { "id": "pack_008", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_002.json", "hash": "" },
+    { "id": "pack_009", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_002.json", "hash": "" },
+    { "id": "pack_010", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_002.json", "hash": "" },
+    { "id": "pack_011", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_002.json", "hash": "" },
+    { "id": "pack_012", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_002.json", "hash": "" },
+    { "id": "pack_013", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_002.json", "hash": "" },
+    { "id": "pack_014", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_002.json", "hash": "" },
+    { "id": "pack_015", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_002.json", "hash": "" },
+    { "id": "pack_016", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_002.json", "hash": "" },
+    { "id": "pack_017", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_002.json", "hash": "" },
+    { "id": "pack_018", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_002.json", "hash": "" },
+    { "id": "pack_019", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_002.json", "hash": "" },
+    { "id": "pack_020", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_002.json", "hash": "" },
+    { "id": "pack_021", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_002.json", "hash": "" },
+    { "id": "pack_022", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_002.json", "hash": "" },
+    { "id": "pack_023", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_002.json", "hash": "" },
+    { "id": "pack_024", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_002.json", "hash": "" },
+    { "id": "pack_025", "version": 1, "wordsCount": 2000, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_003.json", "hash": "" }
   ]
 }
