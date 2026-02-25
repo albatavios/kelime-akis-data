@@ -4,7 +4,7 @@
   "packs": [
     {
       "id": "pack_001",
-      "version": 1,
+      "version": 2,
       "wordsCount": 2000,
       "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_001.json",
       "hash": ""
