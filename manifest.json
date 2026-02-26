@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-02-26",
   "packs": [
-    { "id": "pack_001", "version": 1, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_001.json" },
+    { "id": "pack_001", "version": 2, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_001.json" },
     { "id": "pack_002", "version": 1, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_002.json" },
     { "id": "pack_003", "version": 1, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_003.json" },
     { "id": "pack_004", "version": 1, "url": "https://raw.githubusercontent.com/albatavios/kelime-akis-data/main/packs/pack_004.json" },
