@@ -1,1 +1,7 @@
-
+{
+  "version": "food-001",
+  "updatedAt": "2026-02-27",
+  "categories": {
+    "Yemek": ["ramazan pidesi", "rosto köfte", "rize kavurması", "rulo pasta"]
+  }
+}
