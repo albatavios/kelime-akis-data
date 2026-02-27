@@ -1,1 +1,7 @@
-
+{
+  "version": "general-001",
+  "updatedAt": "2026-02-27",
+  "categories": {
+    "Genel": ["radyo", "rüzgar", "rampa", "resim", "ruhsat", "radyasyon"]
+  }
+}
